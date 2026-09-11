@@ -1,0 +1,13 @@
+# Archivos grandes de salida (no van al repo)
+BASE_VENTAS_COMPLETA.xlsx
+REPORTE_PRODUCTOS.xlsx
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# OS
+.DS_Store
+Thumbs.db
